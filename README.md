@@ -21,7 +21,7 @@ A high-performance, SEO-optimized portfolio template for developers. Built with 
 
 ## Live Demo
 
-[Live Demo:https://myfirstprotofolio-jugn.vercel.app/](https://myfirstprotofolio-jugn.vercel.app/)
+[Live Demo:https://proticprappodurjoy-jugn.vercel.app/](https://proticprappodurjoy-jugn.vercel.app/)
 
 ---
 
