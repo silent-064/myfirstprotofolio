@@ -50,9 +50,9 @@ export const Navbar = () => {
             whileTap={{ scale: 0.95 }}
           >
             <img
-              src="/levi.png"
+              src="/levi.webp"
               alt="Logo"
-              className="h-8 md:h-10 w-auto object-contain"
+              className="h-20 md:h-22 w-auto object-contain"
             />
           </motion.a>
 
