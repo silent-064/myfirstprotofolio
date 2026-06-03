@@ -52,7 +52,7 @@ export const Navbar = () => {
             <img
               src="/levi.webp"
               alt="Logo"
-              className="h-20 md:h-22 w-auto object-contain"
+              className="h-24 md:h-26 w-auto object-contain"
             />
           </motion.a>
 
